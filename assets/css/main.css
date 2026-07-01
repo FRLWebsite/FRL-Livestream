@@ -1792,7 +1792,7 @@ input, select, textarea {
 			}
 
 		header.major p {
-			color: #fff;
+			color: #fdfefd;
 			top: 0;
 		}
 
@@ -1819,7 +1819,7 @@ input, select, textarea {
 	}
 
 	label {
-		color: #fff;
+		color: #fdfefd;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 600;
@@ -2161,7 +2161,7 @@ input, select, textarea {
 		}
 
 			ul.alt li {
-				border-top: solid 1px #010746;
+				border-top: solid 1px #fdfefd;
 				padding: 0.5em 0;
 			}
 
@@ -2604,7 +2604,7 @@ input, select, textarea {
 
 			.features li:before {
 				display: block;
-				color: #00ffcc;
+				color: #fdfefd;
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
