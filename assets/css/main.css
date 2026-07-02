@@ -1991,7 +1991,7 @@ input, select, textarea {
 
 	.box {
 		border-radius: 3px;
-		border: solid 2px #fff;
+		border: solid 2px #06133D;
 		margin-bottom: 2em;
 		padding: 1.5em;
 	}
@@ -2604,7 +2604,7 @@ input, select, textarea {
 
 			.features li:before {
 				display: block;
-				color: #00ffcc;
+				color: #06133D;
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
@@ -2817,7 +2817,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			background-color: #06133D;
 			color: #c8ece9;
 		}
 
@@ -2871,7 +2871,7 @@ input, select, textarea {
 
 				.wrapper.style1 select option {
 					color: #ffffff;
-					background: #21b2a6;
+					background: #06133D;
 				}
 
 			.wrapper.style1 input[type="checkbox"] + label,
@@ -2886,7 +2886,7 @@ input, select, textarea {
 
 			.wrapper.style1 input[type="checkbox"]:checked + label:before,
 			.wrapper.style1 input[type="radio"]:checked + label:before {
-				background: #ffffff;
+				background: #06133D;
 				color: #21b2a6;
 			}
 
@@ -2976,11 +2976,11 @@ input, select, textarea {
 			}
 
 		.wrapper.style2 {
-			background-color: #2e3842;
+			background-color: #06133D;
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #06133D;
 			color: #000744;
 		}
 
