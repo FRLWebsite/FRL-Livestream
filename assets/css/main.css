@@ -3352,7 +3352,7 @@ input, select, textarea {
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
 		background: #06133D;
-		color: #fffff;
+		color: #fff;
 		height: 100%;
 		max-width: 80%;
 		overflow-y: auto;
