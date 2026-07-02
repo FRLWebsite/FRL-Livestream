@@ -3610,7 +3610,7 @@ input, select, textarea {
 				-webkit-transition-delay: 0.25s;
 				-ms-transition-delay: 0.25s;
 				transition-delay: 0.25s;
-				background: #fff;
+				background: #DCE7F5;
 				content: '';
 				display: block;
 				height: 2px;
@@ -3886,7 +3886,7 @@ input, select, textarea {
 
 	#footer {
 		padding: 6em 0 4em 0 ;
-		background-color: #1d242a;
+		background-color: #DCE7F5;
 		text-align: center;
 	}
 
